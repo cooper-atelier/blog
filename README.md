@@ -1,4 +1,4 @@
-[![](https://i.imgur.com/zNBkzj1.png)](https://beautifuljekyll.com/plans/)
+This page is based on
 
 # Beautiful Jekyll
 
