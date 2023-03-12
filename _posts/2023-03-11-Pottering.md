@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Pottering around
-subtitle: Excerpt from Soulshaping by Cooper Gao
-cover-img: /assets/img/pottering2.jpg
+subtitle: Excerpt from Soulshaping
+cover-img: /assets/img/pottering2.jpeg
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/pottering2.jpg
-tags: [painting, spiritual tour]
+share-img: /assets/img/pottering2.jpeg
+tags: [painting, spiritual tour, Cooper]
 ---
 
 
