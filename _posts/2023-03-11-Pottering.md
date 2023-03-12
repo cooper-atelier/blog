@@ -3,8 +3,9 @@ layout: post
 title: Pottering around
 subtitle: Excerpt from Soulshaping
 cover-img: /assets/img/pottering2.jpeg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/pottering3.jpeg
 share-img: /assets/img/pottering2.jpeg
+last-updated: 2023-03-12
 tags: [painting, spiritual tour, Cooper]
 ---
 
@@ -13,6 +14,6 @@ The project intends to represent different spiritual forces, meanwhile blurting 
 
 to be continued.
 
-![Image at the center](/assets/img/pottering3.jpeg){: .mx-auto.d-block :}
+![Image at the center](https://github.com/zhengyuan-gao/blog/blob/master/assets/img/pottering3.jpeg?raw=true){: .mx-auto.d-block :}
 
 
