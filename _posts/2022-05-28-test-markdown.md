@@ -23,11 +23,11 @@ Here's a useless table:
 
 Post an image
 
-![Image from website](https://en.wikipedia.org/wiki/File:MathMinusMath.jpg)
+![Image from website](https://upload.wikimedia.org/wikipedia/en/9/9e/MathMinusMath.jpg)
 
 It can also be centered!
 
-![Image at the center](https://en.wikipedia.org/wiki/File:MathMinusMath.jpg){: .mx-auto.d-block :}
+![Image at the center](https://upload.wikimedia.org/wikipedia/en/9/9e/MathMinusMath.jpg){: .mx-auto.d-block :}
 
 ## Boxes
 You can add notification, warning and error boxes like this:
