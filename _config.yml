@@ -39,7 +39,7 @@ round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: /assets/img/avatar-icon.png
 
 
 #####################################
@@ -49,20 +49,20 @@ round-avatar: false
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "coopergao2023@gmail.com"
+  email: "someone_support_this_account@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-#  facebook: 
+  facebook: someone_support_this_account
 #  github: daattali
 #  twitter: daattali
 #  patreon: DeanAttali
-#  youtube: c/daattali
+  youtube: someone_support_this_account
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: someone_support_this_account
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: dinosaur.A1
+  instagram: someone_support_this_account
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
