@@ -46,3 +46,31 @@ You can add notification, warning and error boxes like this:
 
 {: .box-error}
 **Error:** This is an error box.
+
+
+Here is how to enter a bullet point
+- first
+- second
+- third
+
+> This is a quotation and *italic inputs*.
+
+Here is a digitalised expression `<yourusername>.github.io`
+
+Here is a separate line.
+
+```
+---
+---
+```
+
+or
+
+```
+---
+title: Contact me
+subtitle: Here you'll find all the ways to get in touch with me
+---
+```
+
+## Thank you.
