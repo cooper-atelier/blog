@@ -5,7 +5,7 @@ tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  Here is a [5-minute tour to learn how to write in markdown](https://markdowntutorial.com/) 
+This is a demo post to show you how to write blog posts with markdown.  Here is a [5-minute tour to learn how to write in markdown](https://www.markdowntutorial.com/zh-cn/) 
 
 **Here is some bold text**
 
@@ -57,7 +57,7 @@ Here is how to enter a bullet point
 
 Here is a digitalised expression `<yourusername>.github.io`
 
-Here is a separate line.
+Here are separate lines.
 
 ```
 ---
@@ -68,8 +68,8 @@ or
 
 ```
 ---
-title: Contact me
-subtitle: Here you'll find all the ways to get in touch with me
+some words
+some other words
 ---
 ```
 
