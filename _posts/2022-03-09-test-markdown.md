@@ -9,6 +9,8 @@ This is a demo post to show you how to write blog posts with markdown.  Here is 
 
 **Here is some bold text**
 
+*Here is some italic text.*
+
 ## Here is a secondary heading
 
 Here's a useless table:
@@ -29,7 +31,11 @@ It can also be centered!
 
 ![Image at the center](https://upload.wikimedia.org/wikipedia/en/9/9e/MathMinusMath.jpg){: .mx-auto.d-block :}
 
-## Boxes
+Post a local image (and rescale the image).
+
+<img src="https://github.com/zhengyuan-gao/blog/blob/master/assets/img/pottering3.jpeg?raw=true" width="40%" height="40%" />
+
+
 You can add notification, warning and error boxes like this:
 
 ### Notification
@@ -53,7 +59,7 @@ Here is how to enter a bullet point
 - second
 - third
 
-> This is a quotation and *italic inputs*.
+> This is a quotation.
 
 Here is a digitalised expression `<yourusername>.github.io`
 
@@ -68,8 +74,8 @@ or
 
 ```
 ---
-some words
-some other words
+Remember the cost of 
+fighting for freedom!
 ---
 ```
 
