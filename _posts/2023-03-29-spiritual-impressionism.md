@@ -2,9 +2,9 @@
 layout: post
 title: Spiritual Impressionism
 subtitle: Concept and remarks
-cover-img: https://cdn.discordapp.com/attachments/1088705540760281160/1090268492864966688/Nonggoo_the_Chinese_council_of_hell_ninth_circle_cursed_grand_h_82da10e6-365d-444a-a8cb-20c92c40bd97.png
-thumbnail-img: https://cdn.discordapp.com/attachments/1088705540760281160/1090311350561021993/Nonggoo_panorama_of_shot_showing_the_Chinese_council_of_hell_ni_e1800a31-0275-48f6-b16a-809a15d879be.png
-share-img: /assets/img/pottering2.jpeg
+cover-img: /assets/img/D1.jpg
+thumbnail-img: /assets/img/D1.jpg
+share-img: /assets/img/D1.jpg
 last-updated: 2023-03-29
 
 tags: [SpiritualImpressionism, Cooper]
