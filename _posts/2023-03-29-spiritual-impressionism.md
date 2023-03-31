@@ -2,9 +2,9 @@
 layout: post
 title: Spiritual Impressionism
 subtitle: Concept and Remarks
-cover-img: /assets/img/D1.jpg
-thumbnail-img: /assets/img/D1.jpg
-share-img: /assets/img/D1.jpg
+cover-img: /assets/img/Cooper_2023_0330.jpg
+thumbnail-img: /assets/img/Cooper_2023_0330.jpg
+share-img: /assets/img/Cooper_2023_0330.jpg
 last-updated: 2023-03-30
 
 tags: [Spiritual Impressionism, Cooper]
