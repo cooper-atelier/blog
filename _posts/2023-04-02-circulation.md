@@ -10,7 +10,7 @@ last-updated: 2023-04-03
 tags: [Time, Spiritual art, Cooper]
 ---
 
-We experience these moments in a three-dimensional world that we can touch, see, hear, and interact with. However, our experiences are not limited to just the three-dimensional world that we perceive with our senses. We also have memories and imaginations that allow us to recall past experiences and imagine new possibilities. These memories and imaginations can be thought of as mental constructs that exist outside of the physical world.
+We experience the moments in a three-dimensional world that we can touch, see, hear, and interact with. However, our experiences are not limited to just the three-dimensional world that we perceive with our senses. We also have memories and imaginations that allow us to recall past experiences and imagine new possibilities. These memories and imaginations can be thought of as mental constructs that exist outside of the physical world.
 
 Our experiences are the moments we encounter and perceive in the world around us. These moments can be thought of as points in time that are connected by a sequence or flow of events. In other words, our experiences are a sequence of moments. 
 
