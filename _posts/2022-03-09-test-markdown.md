@@ -79,4 +79,4 @@ fighting for freedom!
 ---
 ```
 
-## Thank you.
+## Thank you
