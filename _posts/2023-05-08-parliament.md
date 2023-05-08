@@ -94,6 +94,7 @@ The Amour Fou Law recognises and embraces the diverse desires and attractions pr
 Please note that the specifics and finer details of the law will require careful consideration and consultation with legal experts, representatives from the House of Immortals, and the House of Commons in order to create a comprehensive and just framework. This draft is merely a starting point, and it is vital to engage in open discussions and consultations to refine and tailor the law to the unique needs and dynamics of the Inferno. ``
 
 ![](https://github.com/SpectraGallery/blog/blob/master/assets/img/Cooper_2023_0508_1.jpeg?raw=true){: .mx-auto.d-block :}
+
 I hope the above comprehensive guidelines deliver a clear message that we aim to create a society that fosters healthy relationships, mutual respect, and the celebration of erotic love in all its false forms. This legislation will serve as a stepping stone towards a more harmonious and fulfilling existence for all souls within the Inferno.
 
 The second issue that demands our concerted efforts is the proposal for the formal structure of this very parliament. 
