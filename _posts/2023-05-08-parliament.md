@@ -3,7 +3,7 @@ layout: post
 title: A speech in the interim Eastern Infernal Parliament
 subtitle: For Cooper's painting entitled Infernal Parliament in the East
 cover-img: /assets/img/Cooper_2023_0508.jpeg
-thumbnail-img: /assets/img/Cooper_2023_0428.jpeg
+thumbnail-img: /assets/img/Cooper_2023_0508.jpeg
 share-img: /assets/img/Cooper_2023_0508.jpeg
 last-updated: 2023-05-08
 
