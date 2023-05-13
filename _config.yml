@@ -19,8 +19,7 @@ author: Spectra Gallery
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:
-Back to Gallery: "https://spectragallery.github.io"
+navbar-links: Back to Gallery: "https://spectragallery.github.io"
 
 #  About Me: "aboutme"
 #  Resources:
