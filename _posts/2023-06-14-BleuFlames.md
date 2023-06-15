@@ -5,7 +5,7 @@ subtitle: For Cooper's painting entitled Bleu Combustion
 cover-img: /assets/img/Cooper_2023_0614.jpeg
 thumbnail-img: /assets/img/Cooper_2023_0614.jpeg
 share-img: /assets/img/Cooper_2023_0614.jpeg
-last-updated: 2023-06-014
+last-updated: 2023-06-015
 
 tags: [New Inferno, Infernal Politics, Reimagined religious art, Spiritual Impressionism, Cooper]
 ---
@@ -29,8 +29,10 @@ The research team has also discovered that by incorporating incomplete combustio
 
 Symbolic Interpretation:
 
-1. Methane as the Catalyst: Methane (CH4), composed of carbon and hydrogen, symbolises the fundamental experience and knowledge of life itself. Carbon signifies the materialistic and greedy aspects of human existence, while hydrogen represents fragmented spirits yearning for transformation and redemption. 
-2. Bleu Flames as Amour Fou Energy: The blue flames resulting from incomplete methane combustion symbolise an intense and transformative energy within the Inferno. They attempt to simulate a similar process of love as complete combustion in heaven but solely for the purpose of "amour fou." These flames trigger the passionate and irrational elements of crazy relationships and fallacious beliefs that drive individuals to extreme behaviours.  
+1. Methane as the Catalyst: Methane (CH4), composed of carbon and hydrogen, symbolises the fundamental experience and knowledge of life itself. Carbon signifies the materialistic and greedy aspects of human existence, while hydrogen represents fragmented spirits yearning for transformation and redemption.
+2. Bleu Flames as Amour Fou Energy: The blue flames resulting from incomplete methane combustion symbolise an intense and transformative energy within the Inferno. They attempt to simulate a similar process of love as complete combustion in heaven but solely for the purpose of "amour fou." These flames trigger the passionate and irrational elements of crazy relationships and fallacious beliefs that drive individuals to extreme behaviours. 
+
+
 Implementation Approach:
 
 The combustion process commences with the ignition of methane in the presence of special agents, usually referred to as O2 agents, capable of accepting negativities from others during the chemical reaction. These agents are highly reactive and, upon contact with methane, generate sufficient amount of heat to initiate the reaction. As methane and O2 agents interact, existing bonds break, and new complex affairs form. As the methane-O2 reaction progresses, a bleu flame emerges when these complex affairs synthesise into a partial relationship, yielding a group of toxic monomania agents as primary combustion byproducts. It is important to note that the flames do not require high temperature or complete combustion as seen in the holy process of heaven. Although toxic, the mono agents can be repurposed as reducing agents in other missions, such as intermediates in the synthesis of alcohols, metallurgy, smelting or fuel gas in kilns, among others.
