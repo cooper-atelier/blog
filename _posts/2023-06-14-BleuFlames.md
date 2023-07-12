@@ -5,7 +5,7 @@ subtitle: For Cooper's painting entitled Bleu Combustion
 cover-img: /assets/img/Cooper_2023_0614.jpeg
 thumbnail-img: /assets/img/Cooper_2023_0614.jpeg
 share-img: /assets/img/Cooper_2023_0614.jpeg
-last-updated: 2023-06-015
+last-updated: 2023-06-15
 
 tags: [New Inferno, Infernal Politics, Reimagined religious art, Spiritual Impressionism, Cooper]
 ---
