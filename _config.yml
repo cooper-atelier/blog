@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: Spectra Gallery's Blog
+title: Cooper's Blog
 
 # Your name to show in the footer
-author: Spectra Gallery
+author: Cooper (Zhengyuan Gao)
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links: 
-  Back to Gallery: "https://spectragallery.github.io"
+  Back to Home: "https://cooper-atelier.github.io"
 
 #  About Me: "aboutme"
 #  Resources:
@@ -50,7 +50,7 @@ title-img: /assets/img/avatar-icon.png
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "spectra.gallery@outlook.com"
+  email: "cooper-gao@outlook.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: someone_support_this_account
 #  github: daattali
@@ -80,7 +80,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof of the existence of the gallery
+rss-description: A hotchpotch of rough ideas
 
 ###########################
 # --- General options --- #
